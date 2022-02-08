@@ -1,0 +1,102 @@
+body
+{
+    background-color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    color: rgb(39, 39, 39);
+    position: absolute;
+}
+.header
+{
+    text-align: center;
+    height: 10%;
+    width: 100%;
+}
+.main
+{
+    height: 70%;
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+}
+.jeden
+{
+    background-color: rgb(219, 132, 132);
+    width: 32%;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.dwa
+{
+    background-color: rgb(116, 115, 199);
+    width: 32%;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+.trzy
+{
+    background-color: rgb(236, 201, 148);
+    width: 32%;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;    
+}
+b
+{
+    font-size: 25px;  
+}
+.fblink
+{
+    font-size: 22px;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+.form
+{
+    text-align: center;
+    padding-top: 50px;
+}
+input
+{
+    font-size: 20px;
+}
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    width: 450px;
+}
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+input[type=reset] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+.Mail
+{
+    font-size: 30px;
+}
